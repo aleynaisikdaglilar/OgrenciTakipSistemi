@@ -1,7 +1,5 @@
 # ogrenci_takip_sistemi
 
-
-# Introduction
 It is a project that shows whether the students passed the course according to the score they got from the exam.
 
 There are three situations:
