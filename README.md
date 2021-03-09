@@ -1,16 +1,18 @@
 # ogrenci_takip_sistemi
 
-A new Flutter application.
 
-## Getting Started
+# Introduction
+It is a project that shows whether the students passed the course according to the score they got from the exam.
 
-This project is a starting point for a Flutter application.
+There are three situations:
 
-A few resources to get you started if this is your first Flutter project:
+- Fail
+- Make-up examination
+- Pass
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![1](https://user-images.githubusercontent.com/58865367/110553165-a40f6480-8149-11eb-8089-32b9d1c3451d.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For now, only the student add operation is working.
+
+![2](https://user-images.githubusercontent.com/58865367/110553850-bb028680-814a-11eb-9aca-9511cb7ed1dd.png)
+
